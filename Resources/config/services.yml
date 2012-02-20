@@ -1,0 +1,7 @@
+parameters:
+#    cn_indexing.example.class: CN\Bundle\IndexingBundle\Example
+
+services:
+#    cn_indexing.example:
+#        class: %cn_indexing.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
